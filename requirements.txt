@@ -1,13 +1,4 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-matplotlib
-seaborn
-joblib
-streamlit_app.py
-requirements.txt
+
 xgb_pipeline_model.pkl
 streamlit==1.29.0
 pandas==2.1.1
