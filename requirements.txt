@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+streamlit_app.py
+requirements.txt
+xgb_pipeline_model.pkl
